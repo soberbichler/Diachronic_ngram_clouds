@@ -1,2 +1,13 @@
-# Diachronic_ngram_clouds
-Discover a newspaper collection with diachronic Ngram clouds
+# Discover a newspaper collection with diachronic Ngram clouds
+
+Ngrams are connected sequences of n items from a given text or speech sample. This means that words are not considered as individual units, but in relation to each other. For scholars in the humanities, ngrams can be helpful to get an overview of their collection or to identify discourse markers (discourse = a group of related texts belonging to a common system of formation). Ngrams can never be a research result per se - which is true for any output of NLP methods - but they can help to find important patterns in a particular collection.  
+
+![Collection on the topic of Emigration](images/WC.PNG)
+
+If ngrams are used to identify discourse markers, it can be useful to crate diachrinic Ngrams to explore the change of rextual patterns. This Notebook therefore shows how diachronic ngrams can be build and visualized. For cultural heritage material, visualizations should make it possible to open up and experience the collections in new ways. But they should always be linked to the original documents. 
+
+The graphic representation and the original material cannot be perceived as two different elements, they are rather  interwoven and interact with each other. Therefore, this Notebook allows to browse the original texts within the Notebook. Thus the results of the ngram clouds can be researched in the context of the original text. 
+
+Acknowledgments:
+
+This work was supported by the European Union's Horizon 2020 research and innovation programme under grant 770299 (NewsEye).
