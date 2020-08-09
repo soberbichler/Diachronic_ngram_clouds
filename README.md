@@ -4,10 +4,6 @@ Ngrams are connected sequences of n items from a given text or speech sample. Th
 
 ![ngrams](WC.PNG)
 
-If ngrams are used to identify discourse markers, it can be useful to crate diachrinic Ngrams to explore the change of rextual patterns. This Notebook therefore shows how diachronic ngrams can be build and visualized. For cultural heritage material, visualizations should make it possible to open up and experience the collections in new ways. But they should always be linked to the original documents. 
+If ngrams are used to identify discourse markers, it can be useful to crate diachrinic ngrams to explore the change of rextual patterns. This Notebook therefore shows how diachronic ngrams can be build and visualized. For cultural heritage material, visualizations should make it possible to open up and experience the collections in new ways. But they should always be linked to the original documents. 
 
 The graphic representation and the original material cannot be perceived as two different elements, they are rather  interwoven and interact with each other. Therefore, this Notebook allows to browse the original texts within the Notebook. Thus the results of the ngram clouds can be researched in the context of the original text. 
-
-Acknowledgments:
-
-This work was supported by the European Union's Horizon 2020 research and innovation programme under grant 770299 (NewsEye).
